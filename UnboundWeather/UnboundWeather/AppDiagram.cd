@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UnboundWeather.core.WeatherData">
+    <Position X="2.5" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAIEAAAA4IAAACAAAIAAAACAEBAAQAAAAEBAA=</HashCode>
+      <FileName>core\WeatherData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnboundWeather.core.WeatherApiHandler">
+    <Position X="5.75" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>core\WeatherApiHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnboundWeather.core.MainWindow">
+    <Position X="10.75" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>core\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UnboundWeather.core.DisplayData">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQgAAAAAAAAAAAAABAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>core\DisplayData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

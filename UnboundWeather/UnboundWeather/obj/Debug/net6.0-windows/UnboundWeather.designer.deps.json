@@ -1,0 +1,110 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DynamicData/7.9.1": {
+        "dependencies": {
+          "System.Reactive": "5.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/DynamicData.dll": {
+            "assemblyVersion": "7.9.0.0",
+            "fileVersion": "7.9.1.23722"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "ReactiveUI/18.1.8": {
+        "dependencies": {
+          "DynamicData": "7.9.1",
+          "Splat": "14.2.8"
+        },
+        "runtime": {
+          "lib/net6.0/ReactiveUI.dll": {
+            "assemblyVersion": "18.1.0.0",
+            "fileVersion": "18.1.8.16825"
+          }
+        }
+      },
+      "RestSharp/108.0.1": {
+        "runtime": {
+          "lib/net6.0/RestSharp.dll": {
+            "assemblyVersion": "108.0.1.0",
+            "fileVersion": "108.0.1.0"
+          }
+        }
+      },
+      "Splat/14.2.8": {
+        "runtime": {
+          "lib/net6.0/Splat.dll": {
+            "assemblyVersion": "14.2.0.0",
+            "fileVersion": "14.2.8.38072"
+          }
+        }
+      },
+      "System.Reactive/5.0.0": {
+        "runtime": {
+          "lib/net5.0/System.Reactive.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DynamicData/7.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fu+OuxZwQ7pvDB9DR/BPyJS4sxzFJNZ6gxVavVYKdwORxWTdN19L/qXGTmmABerpBiyxj3cVUd7pRCAWmHfTbw==",
+      "path": "dynamicdata/7.9.1",
+      "hashPath": "dynamicdata.7.9.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "ReactiveUI/18.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UCGTCWebTf+fyaPH7HMZs/hRhXeeo9e8JE2GmOGcjbPqNMQWP+9SYmsX+gQEUim3dzM4R371bS1tsYk/Np/DwQ==",
+      "path": "reactiveui/18.1.8",
+      "hashPath": "reactiveui.18.1.8.nupkg.sha512"
+    },
+    "RestSharp/108.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XKwuwWq7A4dxZ8l9QkS2+ePLJ9ImmLaJSeFO6H2kpII4Us4n1NRs4w3c//8H2BYpL1XqBE8nmsd9aNCVBwXmOA==",
+      "path": "restsharp/108.0.1",
+      "hashPath": "restsharp.108.0.1.nupkg.sha512"
+    },
+    "Splat/14.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZS3/cRk8Ba32NorjhLbKZFJ+/iYLK4OSC13EXY6JNMPNbhLxlNzsuvmgzLG5FXKH8EHTqnuEU+Og7lwAXz7ucA==",
+      "path": "splat/14.2.8",
+      "hashPath": "splat.14.2.8.nupkg.sha512"
+    },
+    "System.Reactive/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-erBZjkQHWL9jpasCE/0qKAryzVBJFxGHVBAvgRN1bzM0q2s1S4oYREEEL0Vb+1kA/6BKb5FjUZMp5VXmy+gzkQ==",
+      "path": "system.reactive/5.0.0",
+      "hashPath": "system.reactive.5.0.0.nupkg.sha512"
+    }
+  }
+}
