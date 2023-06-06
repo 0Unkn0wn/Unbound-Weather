@@ -7,6 +7,6 @@
     In the zip there is a single file version as well that works independently and doesn't require the user to have the .net platform installed.
 
     Packages used:
-    1. Newtonsoft.Json for json deserialization
+    1.Newtonsoft.Json for json deserialization
     2.ReactiveUi to update fields.
     3.RestSharp for async to make asynchronous HTTP calls to the used apias.
